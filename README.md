@@ -1,2 +1,2 @@
 # Portfolio
-Compilation of projects I, Jon Furtado, have done both academically/recreationally!
+Compilation of projects I, Jon Furtado, have done both academically and recreationally!
