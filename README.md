@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 Compilation of projects I, Jon Furtado, have done both academically and recreationally!
 
 **Falling Blocks 2D (Video Game)**
