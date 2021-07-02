@@ -1,5 +1,5 @@
 # Projects
-Compilation of projects I, Jon Furtado, have done both academically and recreationally!
+Compilation of Projects I have listed on my resume, here for you to review!
 
 **Falling Blocks 2D (Video Game)**
 https://aretrofellow.itch.io/falling-blocks-2d
