@@ -14,4 +14,4 @@ https://jonmovies.herokuapp.com
 **MoviePy Open Source Library Contribution**
 https://github.com/jlindo33/moviepy/commits/master
 
-*History of pushes my team members (Jacob, Victoria, Joe) and I have made to the library for a Final Class Project*
+*History of pushes my team members (Jacob, Victoria, Joe) and I have made to the library for a Final Group Class Project*
