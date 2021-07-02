@@ -8,3 +8,6 @@ https://aretrofellow.itch.io/falling-blocks-2d
 https://jonmovies.herokuapp.com
 
 *Note: Account Creation/Login is broken on the site now, Heroku changed its way of handling PostgreSQL since this project*
+**MoviePy Open Source Library Contribution**
+https://github.com/jlindo33/moviepy/commits/master
+*History of pushes my team members and I have made to the library for a Final Class Project*
